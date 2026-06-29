@@ -1,0 +1,628 @@
+[
+    {
+        "label": "Featured Games",
+        "lists": [
+            {
+                "title": "Free Arcade Games",
+                "href": "https://arcade-games.org/category/arcade"
+            },
+            {
+                "title": "Alien Games",
+                "href": "https://arcade-games.org/tag/alien"
+            },
+            {
+                "title": "Diet Games",
+                "href": "https://arcade-games.org/tag/Diet"
+            },
+            {
+                "title": "Donkey Games",
+                "href": "https://arcade-games.org/tag/Donkey"
+            }
+        ]
+    },
+    {
+        "label": "Arcade Games",
+        "lists": [
+            {
+                "title": "Bleach Vs Naruto 3.5",
+                "href": "https://arcade-games.org/arcade/bleach-vs-naruto-3-5",
+                "img": "https://img.crazygames-poki.com/69b3e3d0c8be7547358c4b39128eeff9.jpg"
+            },
+            {
+                "title": "The King of Fighters 2002 Magic Plus II (bootleg)",
+                "href": "https://arcade-games.org/arcade/king-fighters-2002-magic-plus-ii",
+                "img": "https://img.crazygames-poki.com/95b5c755839182cf3b8de4958be82875.png"
+            },
+            {
+                "title": "New Pong",
+                "href": "https://arcade-games.org/arcade/new-pong",
+                "img": "https://img.crazygames-poki.com/35fca6f68c69c33061db421e0d815e77.jpeg"
+            },
+            {
+                "title": "Moon Patrol",
+                "href": "https://arcade-games.org/arcade/moon-patrol",
+                "img": "https://img.crazygames-poki.com/2978fbd0f2318b5c33abcfc208023f0d.png"
+            },
+            {
+                "title": "Bleach Vs Naruto 3.3",
+                "href": "https://arcade-games.org/arcade/bleach-vs-naruto-3",
+                "img": "https://img.crazygames-poki.com/69d1bdc949f92f9b3e5a808ffe1aa0b7.jpg"
+            },
+            {
+                "title": "Google PacMan",
+                "href": "https://arcade-games.org/arcade/google-pacman",
+                "img": "https://img.crazygames-poki.com/d2a661725a6d7c85bf2f4469cd319593.jpg"
+            },
+            {
+                "title": "Bleach Vs Naruto 2.6",
+                "href": "https://arcade-games.org/arcade/bleach-vs-naruto-2-6",
+                "img": "https://img.crazygames-poki.com/ff6999869cb9bc7c26295f68c3014e3f.jpg"
+            },
+            {
+                "title": "Knights of Valour - Sangoku Senki (V115)",
+                "href": "https://arcade-games.org/arcade/knights-valour-sangoku-senki-v115",
+                "img": "https://img.crazygames-poki.com/c4a104a6406ffb02740be47b6d8e7a34.png"
+            },
+            {
+                "title": "Magic Cat Academy",
+                "href": "https://arcade-games.org/arcade/magic-cat-academy",
+                "img": "https://img.crazygames-poki.com/3077229a246f6a387ae8728714535aef.jpg"
+            },
+            {
+                "title": "Arkanoid (Japan)",
+                "href": "https://arcade-games.org/arcade/arkanoid-japan",
+                "img": "https://img.crazygames-poki.com/f664f8dcdb415f6a3a252c334459089e.png"
+            },
+            {
+                "title": "Super Uncle Tennis: World Tour",
+                "href": "https://arcade-games.org/arcade/super-uncle-tennis-world-tour",
+                "img": "https://img.crazygames-poki.com/f53f7d85b3706568b44724aa750c4ff3.jpg"
+            },
+            {
+                "title": "The King of Fighters 2002 Magic Plus (bootleg)",
+                "href": "https://arcade-games.org/arcade/king-fighters-2002-magic-plus-bootleg",
+                "img": "https://img.crazygames-poki.com/51c3edc8161f75c59252ca81fe393d7d.png"
+            },
+            {
+                "title": "Freeze",
+                "href": "https://arcade-games.org/arcade/freeze",
+                "img": "https://img.crazygames-poki.com/0e66cf52881280f93495bc5813d025a3.png"
+            },
+            {
+                "title": "Final Fight (USA, set 1)",
+                "href": "https://arcade-games.org/arcade/final-fight-usa-set-1",
+                "img": "https://img.crazygames-poki.com/39a93c1c70eea6c0fbc56c4c2efd2f31.png"
+            },
+            {
+                "title": "3 Count Bout / Fire Suplex (NGM-043)",
+                "href": "https://arcade-games.org/arcade/3-count-bout-fire-suplex-ngm-043",
+                "img": "https://img.crazygames-poki.com/48063182cf25ab6343de2109e5191dc2.png"
+            },
+            {
+                "title": "Retroid",
+                "href": "https://arcade-games.org/arcade/retroid",
+                "img": "https://img.crazygames-poki.com/9100b7702f4f79f3e8dc41348f665cf0.jpg"
+            },
+            {
+                "title": "Tekken 3",
+                "href": "https://arcade-games.org/arcade/tekken-3",
+                "img": "https://img.crazygames-poki.com/a819860e45c927c51bd311e7e1340a00.jpg"
+            },
+            {
+                "title": "Snakecremental",
+                "href": "https://arcade-games.org/arcade/snakecremental",
+                "img": "https://img.crazygames-poki.com/4334a96308da7e023680849e6f4b556a.jpg"
+            },
+            {
+                "title": "Puzzle Blocks Classic",
+                "href": "https://arcade-games.org/arcade/puzzle-blocks-classic",
+                "img": "https://img.crazygames-poki.com/d242796762506ace4675f8d3380e8131.jpg"
+            },
+            {
+                "title": "One Pencil",
+                "href": "https://arcade-games.org/arcade/one-pencil",
+                "img": "https://img.crazygames-poki.com/a242ceb520f1ab1d0a1572f976f041b7.jpg"
+            },
+            {
+                "title": "Train Miner: Idle Railway Game",
+                "href": "https://arcade-games.org/arcade/train-miner-idle-railway-game",
+                "img": "https://img.crazygames-poki.com/58dfb85ef9f426f05c672f541bd7e2c3.jpg"
+            },
+            {
+                "title": "Hat Trick Hero '93 (Ver 1.0J 1993/02/28)",
+                "href": "https://arcade-games.org/arcade/hat-trick-hero-93-ver-10j",
+                "img": "https://img.crazygames-poki.com/6207320d24a4525191e3d2d0dbfad461.png"
+            },
+            {
+                "title": "Rise Up",
+                "href": "https://arcade-games.org/arcade/rise-up",
+                "img": "https://img.crazygames-poki.com/1fa3b50d0848118c86b9a493214bcabb.jpg"
+            },
+            {
+                "title": "Mysterious Stones - Dr. Kick in Adventure (Itisa PCB)",
+                "href": "https://arcade-games.org/arcade/mysterious-stones-dr-kick-adventure-game",
+                "img": "https://img.crazygames-poki.com/d54bf5e8dbcec9b166a10cfe0c487008.png"
+            },
+            {
+                "title": "Armored Warriors (941024 Europe)",
+                "href": "https://arcade-games.org/arcade/armored-warriors-941024-europe",
+                "img": "https://img.crazygames-poki.com/84217682b034a0735da6a327b5a856c7.png"
+            },
+            {
+                "title": "Temple Run 2",
+                "href": "https://arcade-games.org/arcade/templerun2",
+                "img": "https://img.crazygames-poki.com/41ab373ddee881a514cb3545402f1f22.jpg"
+            },
+            {
+                "title": "Crazy Fight",
+                "href": "https://arcade-games.org/arcade/crazy-fight",
+                "img": "https://img.crazygames-poki.com/2aab5f1fa9eb08f79ed02a696a065d68.png"
+            },
+            {
+                "title": "Snowflight",
+                "href": "https://arcade-games.org/arcade/snowflight",
+                "img": "https://img.crazygames-poki.com/078a555f0d1e7bc76c3bc5c06a8b61e9.jpg"
+            },
+            {
+                "title": "Bucky O'Hare (ver EAB)",
+                "href": "https://arcade-games.org/arcade/bucky-ohare-ver-eab",
+                "img": "https://img.crazygames-poki.com/a1867f49532cea391c216139db7c9934.png"
+            },
+            {
+                "title": "Stellar Burner",
+                "href": "https://arcade-games.org/arcade/stellar-burner",
+                "img": "https://img.crazygames-poki.com/e6e78935feda2f705313ba4de0ff09cf.png"
+            },
+            {
+                "title": "Ms. Poci",
+                "href": "https://arcade-games.org/arcade/ms-poci",
+                "img": "https://img.crazygames-poki.com/b8f4fafcb2b6ad9f2e56c04804ad96d9.gif"
+            },
+            {
+                "title": "Swordius",
+                "href": "https://arcade-games.org/arcade/swordius",
+                "img": "https://img.crazygames-poki.com/93cc90b26aed4d878626d9b9a8264256.jpg"
+            },
+            {
+                "title": "Action Fighter, FD1089A 317-0018",
+                "href": "https://arcade-games.org/arcade/action-fighter-fd1089a-317-0018",
+                "img": "https://img.crazygames-poki.com/3296fb8ece3c0e6075552d4b9d2e22d5.png"
+            },
+            {
+                "title": "Happy Swing",
+                "href": "https://arcade-games.org/arcade/happy-swing",
+                "img": "https://img.crazygames-poki.com/025038ff33e62af3bd1e73a763fffad7.gif"
+            },
+            {
+                "title": "Sonic 3 & Knuckles: The Challenges",
+                "href": "https://arcade-games.org/arcade/sonic-3-knuckles-the-challenges",
+                "img": "https://img.crazygames-poki.com/63fc0f8e34dc104e8a292aa04e920be6.jpg"
+            },
+            {
+                "title": "Just Another TD",
+                "href": "https://arcade-games.org/arcade/just-another-td",
+                "img": "https://img.crazygames-poki.com/1222535c305dd7eec0a7ec0ad6af2918.jpg"
+            },
+            {
+                "title": "Swingo",
+                "href": "https://arcade-games.org/arcade/swingo",
+                "img": "https://img.crazygames-poki.com/6067fc91b2189e98c3825a2b0f5c3df8.jpg"
+            },
+            {
+                "title": "Arrow Wave",
+                "href": "https://arcade-games.org/arcade/arrow-wave",
+                "img": "https://img.crazygames-poki.com/5a17bc1345f5dfd6626caa6a086470dc.jpg"
+            },
+            {
+                "title": "Leap and Avoid 2",
+                "href": "https://arcade-games.org/arcade/leap-and-avoid-2",
+                "img": "https://img.crazygames-poki.com/5f55a1f32868688d7c47ff592a4ba1f8.png"
+            },
+            {
+                "title": "Upslash",
+                "href": "https://arcade-games.org/arcade/upslash",
+                "img": "https://img.crazygames-poki.com/5a4dcee1c20150a5bbd17a3d426de153.jpg"
+            },
+            {
+                "title": "Bull Runner",
+                "href": "https://arcade-games.org/arcade/bull-runner",
+                "img": "https://img.crazygames-poki.com/f84886b0df51d6cfb4a2df34975076de.jpg"
+            },
+            {
+                "title": "Geometry Vibes X-Ball",
+                "href": "https://arcade-games.org/arcade/geometry-vibes-x-ball",
+                "img": "https://img.crazygames-poki.com/3cc7c245e12724757b2004781be79b35.jpg"
+            },
+            {
+                "title": "Switchblade",
+                "href": "https://arcade-games.org/arcade/switchblade",
+                "img": "https://img.crazygames-poki.com/2675aba538287e2f1ffb603f3cc9faf9.jpg"
+            },
+            {
+                "title": "Daisenpu (Japan)",
+                "href": "https://arcade-games.org/arcade/daisenpu-japan",
+                "img": "https://img.crazygames-poki.com/09c8df0d925f37c31748ab17e613e35d.png"
+            },
+            {
+                "title": "Orb Tower",
+                "href": "https://arcade-games.org/arcade/orb-tower",
+                "img": "https://img.crazygames-poki.com/0a578778505594c1a02ebeb3871fe184.jpg"
+            },
+            {
+                "title": "Orbit Dash",
+                "href": "https://arcade-games.org/arcade/orbit-dash",
+                "img": "https://img.crazygames-poki.com/6fb17533af27aeb0d919f57bb9155196.jpg"
+            },
+            {
+                "title": "Longcat",
+                "href": "https://arcade-games.org/arcade/longcat",
+                "img": "https://img.crazygames-poki.com/7bd149889b5ce595a7e85e3b89d05366.jpg"
+            },
+            {
+                "title": "Blomby Car (not encrypted)",
+                "href": "https://arcade-games.org/arcade/blomby-car-not-encrypted",
+                "img": "https://img.crazygames-poki.com/14b8a78fd98f8b8dabaa22046b7c344f.png"
+            },
+            {
+                "title": "Wheel of Fortunes",
+                "href": "https://arcade-games.org/arcade/wheel-fortunes",
+                "img": "https://img.crazygames-poki.com/e9e98a91d94e014898039a23450fa6ba.gif"
+            },
+            {
+                "title": "Galaga (Midway set 1 with fast shoot hack)",
+                "href": "https://arcade-games.org/arcade/galaga-midway-set-1-fast-shoot",
+                "img": "https://img.crazygames-poki.com/e1765cba8ddf9e1d4e1be0dff0a4fdb3.png"
+            },
+            {
+                "title": "Prisonela MD",
+                "href": "https://arcade-games.org/arcade/prisonela-md",
+                "img": "https://img.crazygames-poki.com/4040598e1d1a0b19abc98defe5081944.jpg"
+            },
+            {
+                "title": "UNO Online",
+                "href": "https://arcade-games.org/arcade/uno",
+                "img": "https://img.crazygames-poki.com/13086cd238775d069ae14fc7a216b2e1.jpg"
+            },
+            {
+                "title": "Namco Classic Collection Vol.2 (Japan)",
+                "href": "https://arcade-games.org/arcade/namco-classic-collection-vol2-japan",
+                "img": "https://img.crazygames-poki.com/8e9d45f46b0a19b22ed863a4784dd775.png"
+            },
+            {
+                "title": "Mushroom Fever: Match 3",
+                "href": "https://arcade-games.org/arcade/mushroom-fever-match-3",
+                "img": "https://img.crazygames-poki.com/1c796e663eb9397929489ee149c93c96.gif"
+            },
+            {
+                "title": "Shotdogs",
+                "href": "https://arcade-games.org/arcade/shotdogs",
+                "img": "https://img.crazygames-poki.com/c68a5582b26aea8cbfbd80acb2185bf3.gif"
+            },
+            {
+                "title": "Wormies io",
+                "href": "https://arcade-games.org/arcade/wormies-io",
+                "img": "https://img.crazygames-poki.com/c4013ab6d6e4c4f8ff8fa1f7d248d958.gif"
+            },
+            {
+                "title": "Scary Wheel",
+                "href": "https://arcade-games.org/arcade/scary-wheel",
+                "img": "https://img.crazygames-poki.com/be43bbf361cdada1b31bc2c8d69908e5.jpg"
+            },
+            {
+                "title": "inCARceration",
+                "href": "https://arcade-games.org/arcade/incarceration",
+                "img": "https://img.crazygames-poki.com/3cb45fdd453782eb5349cf71b4f173ce.jpg"
+            },
+            {
+                "title": "Naname de Magic!",
+                "href": "https://arcade-games.org/arcade/naname-de-magic",
+                "img": "https://img.crazygames-poki.com/74bb3a3f3be2f9f10e0c5c3b30b7f692.png"
+            },
+            {
+                "title": "Merge Balls Shooter 2048 Connect Fruits",
+                "href": "https://arcade-games.org/arcade/merge-balls-shooter-2048-connect-fruits",
+                "img": "https://img.crazygames-poki.com/21029867c5034897e7b37f1e01d8fd4d.gif"
+            },
+            {
+                "title": "Merge Run Battle",
+                "href": "https://arcade-games.org/arcade/merge-run-battle",
+                "img": "https://img.crazygames-poki.com/17f876c39dcb02d34e78303e974520e6.jpg"
+            },
+            {
+                "title": "Sprunki Phase 10 Definitive",
+                "href": "https://arcade-games.org/arcade/sprunki-phase-10-definitive",
+                "img": "https://img.crazygames-poki.com/41603b42b34de555cb9b80e87b2ac4db.jpg"
+            },
+            {
+                "title": "Shredder Chess",
+                "href": "https://arcade-games.org/arcade/shredder-chess",
+                "img": "https://img.crazygames-poki.com/db34ec847987289d7b8f3610ab8f0f76.gif"
+            },
+            {
+                "title": "Rail Hunt",
+                "href": "https://arcade-games.org/arcade/rail-hunt",
+                "img": "https://img.crazygames-poki.com/f23cee331c6419a2cd4b15f50f58bdd3.jpg"
+            },
+            {
+                "title": "Fury Chase",
+                "href": "https://arcade-games.org/arcade/fury-chase",
+                "img": "https://img.crazygames-poki.com/fba47a35124d4165c32657ecc0dc0b24.jpg"
+            },
+            {
+                "title": "Battle Garegga - New Version (Hong Kong / Austria?) (Sat Mar 2 1996)",
+                "href": "https://arcade-games.org/arcade/battle-garegga-new-version-hong",
+                "img": "https://img.crazygames-poki.com/3e03c79fbb4b1b1d655a11060fa7c0e9.png"
+            },
+            {
+                "title": "Daytona USA (Revision A)",
+                "href": "https://arcade-games.org/arcade/daytona-usa-revision",
+                "img": "https://img.crazygames-poki.com/67055422b7f466a9e6e4ddb8470534ca.png"
+            },
+            {
+                "title": "Super Pyonpon",
+                "href": "https://arcade-games.org/arcade/super-pyonpon",
+                "img": "https://img.crazygames-poki.com/2d49fb6ddbc0c45929e3f7f7b909aa4a.jpg"
+            },
+            {
+                "title": "1942 (First Version)",
+                "href": "https://arcade-games.org/arcade/1942-first-version",
+                "img": "https://img.crazygames-poki.com/839ed7480c7ee464f6c2fbae8225c7c9.png"
+            },
+            {
+                "title": "1943: Midway Kaisen (Japan, Rev B)",
+                "href": "https://arcade-games.org/arcade/1943-midway-kaisen-japan-rev-b",
+                "img": "https://img.crazygames-poki.com/47855b165f0d05657e0ce4588f2ead70.png"
+            },
+            {
+                "title": "Tunnel Road",
+                "href": "https://arcade-games.org/arcade/tunnel-road",
+                "img": "https://img.crazygames-poki.com/9de694a4514eb135555717578110e58d.jpg"
+            },
+            {
+                "title": "Demon Front (V105)",
+                "href": "https://arcade-games.org/arcade/demon-front-v105",
+                "img": "https://img.crazygames-poki.com/afd0756094cbef241868e86c36e3077e.png"
+            },
+            {
+                "title": "Plants vs Zombies 2",
+                "href": "https://arcade-games.org/arcade/plants-vs-zombies-2",
+                "img": "https://img.crazygames-poki.com/51a2ff898ad817cb6dbe36f87f7f2be3.jpg"
+            },
+            {
+                "title": "Mystic Warriors (ver AAB)",
+                "href": "https://arcade-games.org/arcade/mystic-warriors-ver-aab",
+                "img": "https://img.crazygames-poki.com/aa6624ad63dc55c6900495fb3a15bf44.png"
+            },
+            {
+                "title": "Hasamu (Japan)",
+                "href": "https://arcade-games.org/arcade/hasamu-japan",
+                "img": "https://img.crazygames-poki.com/78cf181b48a433f8389a5a98c5419dac.png"
+            },
+            {
+                "title": "Escape or Die – Troll Devil Levels",
+                "href": "https://arcade-games.org/arcade/escape-or-die-troll-devil-levels",
+                "img": "https://img.crazygames-poki.com/a5823b2e88d32bc0460b31173ec97af1.jpg"
+            },
+            {
+                "title": "Duck Sorter",
+                "href": "https://arcade-games.org/arcade/duck-sorter",
+                "img": "https://img.crazygames-poki.com/4b076ee08a2bac3e85631fdb6f507f77.jpg"
+            },
+            {
+                "title": "Gate of Doom (US revision 4)",
+                "href": "https://arcade-games.org/arcade/gate-doom-us-revision-4",
+                "img": "https://img.crazygames-poki.com/8d5a4ad21ece5b73671bfa6860820c1a.png"
+            },
+            {
+                "title": "Namco Classic Collection Vol.2",
+                "href": "https://arcade-games.org/arcade/namco-classic-collection-vol2",
+                "img": "https://img.crazygames-poki.com/98c43e1f8d214aa57eadffe9c70dda0f.png"
+            },
+            {
+                "title": "Gauntlet (German, rev 3)",
+                "href": "https://arcade-games.org/arcade/gauntlet-german-rev-3",
+                "img": "https://img.crazygames-poki.com/1dd545155308bf020590407246e7fa2e.png"
+            },
+            {
+                "title": "Raiden II (US, set 1)",
+                "href": "https://arcade-games.org/arcade/raiden-ii-us-set-1",
+                "img": "https://img.crazygames-poki.com/598902f81d120e03401e6f89fcc4a710.png"
+            },
+            {
+                "title": "Knights of Valour 2 Plus - Nine Dragons (VM202XX)",
+                "href": "https://arcade-games.org/arcade/knights-valour-2-plus-nine",
+                "img": "https://img.crazygames-poki.com/aa35f55ae12ebecbe2229a499bdbd6d5.png"
+            },
+            {
+                "title": "Galaxian Part 4 (hack)",
+                "href": "https://arcade-games.org/arcade/galaxian-part-4-hack-hack",
+                "img": "https://img.crazygames-poki.com/8c66d3107bd1e30bb2259ac5c0d980f2.png"
+            },
+            {
+                "title": "Super Donuts",
+                "href": "https://arcade-games.org/arcade/super-donuts",
+                "img": "https://img.crazygames-poki.com/c9535b1b5cbb1771e614d2331b072ea7.jpg"
+            },
+            {
+                "title": "Adventure Quiz Capcom World 2 (Japan 920611, B-Board 91634B-2)",
+                "href": "https://arcade-games.org/arcade/adventure-quiz-capcom-world-2-japan-game",
+                "img": "https://img.crazygames-poki.com/50a15d4ec8d0e2ab91d34b79df94f9d7.png"
+            },
+            {
+                "title": "Ghosts'n Goblins (US)",
+                "href": "https://arcade-games.org/arcade/ghostsn-goblins-us",
+                "img": "https://img.crazygames-poki.com/429ecebae44b2519c4f8143766b65b4f.png"
+            },
+            {
+                "title": "Lambo Traffic Racer",
+                "href": "https://arcade-games.org/arcade/lambo-traffic-racer",
+                "img": "https://img.crazygames-poki.com/197cec20befd4f908244036af6f50923.jpg"
+            },
+            {
+                "title": "Demon Front (V107, Korea, Single PCB Version)",
+                "href": "https://arcade-games.org/arcade/demon-front-v107-korea-single-pcb",
+                "img": "https://img.crazygames-poki.com/bba582fbdd880479882a100d1492f668.png"
+            },
+            {
+                "title": "Mario.EXE",
+                "href": "https://arcade-games.org/arcade/mario-exe-game",
+                "img": "https://img.crazygames-poki.com/816bd45720c465c107fa628e0e87b52c.png"
+            },
+            {
+                "title": "Kaiketsu Yanchamaru (Japan)",
+                "href": "https://arcade-games.org/arcade/kaiketsu-yanchamaru-japan",
+                "img": "https://img.crazygames-poki.com/f3ebaadae6d6d8618417019e180dc909.png"
+            },
+            {
+                "title": "Switch Off 2",
+                "href": "https://arcade-games.org/arcade/switch-off-2",
+                "img": "https://img.crazygames-poki.com/5c4e17f3250d42095797036cdec46b1b.jpg"
+            },
+            {
+                "title": "Galaxian Part X (moonaln hack)",
+                "href": "https://arcade-games.org/arcade/galaxian-part-x-moonaln-hack-hack",
+                "img": "https://img.crazygames-poki.com/338d005cfade00bef9afdc1b20373766.png"
+            },
+            {
+                "title": "Aero Fighters",
+                "href": "https://arcade-games.org/arcade/aero-fighters",
+                "img": "https://img.crazygames-poki.com/9e74450fc5afc640a5efd99f0a100cb4.png"
+            },
+            {
+                "title": "Gauntlet (2 Players, Japanese, rev 5)",
+                "href": "https://arcade-games.org/arcade/gauntlet-2-players-japanese-rev-5",
+                "img": "https://img.crazygames-poki.com/12453245d37d07e231fc20c44616899b.png"
+            },
+            {
+                "title": "Deroon DeroDero",
+                "href": "https://arcade-games.org/arcade/deroon-derodero-no-sound",
+                "img": "https://img.crazygames-poki.com/daf4d24e0e74b02bf00433246fc057c8.png"
+            },
+            {
+                "title": "Gauntlet II (2 Players, German)",
+                "href": "https://arcade-games.org/arcade/gauntlet-ii-2-players-german",
+                "img": "https://img.crazygames-poki.com/d76ee0c4a081d28ae44af5845cc74a2d.png"
+            },
+            {
+                "title": "1000 Miglia: Great 1000 Miles Rally (94/05/10)",
+                "href": "https://arcade-games.org/arcade/1000-miglia-great-1000-miles-rally",
+                "img": "https://img.crazygames-poki.com/4414c8f5d78aef133274ad64593d8990.png"
+            },
+            {
+                "title": "Bucky O'Hare (ver JAA)",
+                "href": "https://arcade-games.org/arcade/bucky-ohare-ver-jaa",
+                "img": "https://img.crazygames-poki.com/8d8467074312bb1cbddf1c52d0acb763.png"
+            },
+            {
+                "title": "Dark Tower",
+                "href": "https://arcade-games.org/arcade/dark-tower",
+                "img": "https://img.crazygames-poki.com/a30240d73f75085e93fdc5c319acfd65.png"
+            },
+            {
+                "title": "Vex X3M 2",
+                "href": "https://arcade-games.org/arcade/vex-x3m-2",
+                "img": "https://img.crazygames-poki.com/718c17372b13635dbdfea8c509c95f1f.png"
+            },
+            {
+                "title": "Gauntlet (Japanese, rev 12)",
+                "href": "https://arcade-games.org/arcade/gauntlet-japanese-rev-12",
+                "img": "https://img.crazygames-poki.com/ff51c751fbbc57e9f35c7cb266a5a551.png"
+            },
+            {
+                "title": "V-Impact",
+                "href": "https://arcade-games.org/arcade/v-impact",
+                "img": "https://img.crazygames-poki.com/07b79be0702d1cfb8831c04569e863e3.jpg"
+            },
+            {
+                "title": "FixEight (Japan)",
+                "href": "https://arcade-games.org/arcade/fixeight-japan",
+                "img": "https://img.crazygames-poki.com/8de5b2d431a654e7c16ab59cd3f09815.png"
+            },
+            {
+                "title": "Time to Panic",
+                "href": "https://arcade-games.org/arcade/time-to-panic",
+                "img": "https://img.crazygames-poki.com/991f68a99df235e273a942b8e9bd5bb0.jpg"
+            },
+            {
+                "title": "1942 (Revision B)",
+                "href": "https://arcade-games.org/arcade/1942-revision-b",
+                "img": "https://img.crazygames-poki.com/c22e3494c5519fc2d804b9babac0cb50.png"
+            },
+            {
+                "title": "Sonic and Knuckles (Sega)",
+                "href": "https://arcade-games.org/arcade/sonic-and-knuckles-game",
+                "img": "https://img.crazygames-poki.com/f539b6196ffb2d2e22a32c087ea64f71.jpg"
+            },
+            {
+                "title": "Gekirindan (Ver 2.3J 1995/09/21)",
+                "href": "https://arcade-games.org/arcade/gekirindan-ver-23j-19950921",
+                "img": "https://img.crazygames-poki.com/3a9ecaa6de663b44fc8afd15b30f14e0.png"
+            },
+            {
+                "title": "Daioh (set 1)",
+                "href": "https://arcade-games.org/arcade/daioh-set-1",
+                "img": "https://img.crazygames-poki.com/630ff52174a43c1fb2187339dd14dbbf.png"
+            },
+            {
+                "title": "Gauntlet (German, rev 8)",
+                "href": "https://arcade-games.org/arcade/gauntlet-german-rev-8",
+                "img": "https://img.crazygames-poki.com/aadfd19366565ddea4f96cef7c01f1ce.png"
+            },
+            {
+                "title": "Gauntlet (rev 7)",
+                "href": "https://arcade-games.org/arcade/gauntlet-rev-7",
+                "img": "https://img.crazygames-poki.com/21a0e1b1b70a334e966eeb7dc997661b.png"
+            },
+            {
+                "title": "Gauntlet II (2 Players, rev 1)",
+                "href": "https://arcade-games.org/arcade/gauntlet-ii-2-players-rev-1",
+                "img": "https://img.crazygames-poki.com/e4a6b4e20766a5dca7c0d1b4590ddd88.png"
+            },
+            {
+                "title": "Bottom of the Ninth (ver. T)",
+                "href": "https://arcade-games.org/arcade/bottom-ninth-ver-t",
+                "img": "https://img.crazygames-poki.com/30e47c8cab3e98ab5a0295fae97f99fb.png"
+            },
+            {
+                "title": "Kizuna Encounter - Super Tag Battle / Fu'un Super Tag Battle",
+                "href": "https://arcade-games.org/arcade/kizuna-encounter-super-tag-battle",
+                "img": "https://img.crazygames-poki.com/e027421d8d70dc194f884d17ec374f0f.png"
+            },
+            {
+                "title": "Agent Super Bond (scobra hardware)",
+                "href": "https://arcade-games.org/arcade/agent-super-bond-scobra-hardware-bad",
+                "img": "https://img.crazygames-poki.com/02adef1ac273fc5a8dc4752c227f598b.png"
+            },
+            {
+                "title": "Dark Adventure",
+                "href": "https://arcade-games.org/arcade/dark-adventure",
+                "img": "https://img.crazygames-poki.com/82cd5ffc0e8e475a4cb6abebf8a662d2.png"
+            },
+            {
+                "title": "Date Quiz Go Go (Korea)",
+                "href": "https://arcade-games.org/arcade/date-quiz-go-go-korea",
+                "img": "https://img.crazygames-poki.com/24d78bffd653ecb6736ca70675c8b9b1.png"
+            },
+            {
+                "title": "Dead Connection (World)",
+                "href": "https://arcade-games.org/arcade/dead-connection-world",
+                "img": "https://img.crazygames-poki.com/584da62a2667cf7dfc7dfc0ae16c3250.png"
+            },
+            {
+                "title": "Genpei ToumaDen",
+                "href": "https://arcade-games.org/arcade/genpei-toumaden",
+                "img": "https://img.crazygames-poki.com/64e0f93e4e1dc595af4ffaf0a1052f18.png"
+            },
+            {
+                "title": "Black Hole",
+                "href": "https://arcade-games.org/arcade/black-hole-game",
+                "img": "https://img.crazygames-poki.com/c3b254fd779880689472afa5b2ea0ea1.png"
+            },
+            {
+                "title": "Fantasy Land (set 1)",
+                "href": "https://arcade-games.org/arcade/fantasy-land-set-1",
+                "img": "https://img.crazygames-poki.com/1fe832dafe06ddecc83efdd8e50bc91c.png"
+            }
+        ]
+    }
+]

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FNFunKin</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <header class="top">
+    <div class="top-bar">
+      <a class="brand" href="https://fnfunkin.org/?utm_source=chrome_extension&utm_medium=header" target="_blank" rel="noopener">
+        <img class="brand-logo" src="icons/icon128.png" alt="FNFunKin" width="44" height="44">
+        <div class="brand-text">
+          <span class="brand-name">FNFunKin</span>
+          <span class="brand-tagline">Free Friday Night Funkin Mods</span>
+        </div>
+      </a>
+    </div>
+    <form class="search-form" id="searchForm" action="https://fnfunkin.org/" method="get" target="_blank">
+      <svg class="search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+        <circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/>
+      </svg>
+      <input type="text" id="searchInput" class="search-input" placeholder="Search FNF mods..." autocomplete="off" aria-label="Search tools">
+    </form>
+  </header>
+
+  <nav class="categories" id="categoriesNav" aria-label="Tool categories">
+    <div class="category-track">
+      <div class="category-scroll" id="categoryButtons"></div>
+    </div>
+  </nav>
+
+  <main class="main">
+    <div class="section-head">
+      <span class="section-bar"></span>
+      <h2 class="section-title" id="sectionTitle">Featured Tools</h2>
+    </div>
+    <div class="tools-grid" id="toolsGrid">
+      <div class="loading">Loading tools...</div>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <a href="https://fnfunkin.org/?utm_source=chrome_extension&utm_medium=footer" target="_blank" rel="noopener">fnfunkin.org</a>
+    <span>·</span>
+    <span id="syncStatus" class="sync-status" title="Data sync status">Syncing...</span>
+    <button type="button" id="refreshBtn" class="refresh-btn" title="Reload local data">↻</button>
+  </footer>
+
+  <script src="config.js"></script>
+  <script src="popup.js"></script>
+</body>
+</html>
